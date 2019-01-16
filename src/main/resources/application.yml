@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: mycat-demo
+  datasource:
+    hikari:
+      jdbc-url:
